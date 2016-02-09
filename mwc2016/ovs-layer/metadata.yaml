@@ -1,0 +1,4 @@
+name: expeto-ovs
+summary: Deploys OpenVSwitch networking for the Expeto MWC demo
+description: Deploys OpenVSwitch
+
